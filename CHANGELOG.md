@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.8.0](https://www.github.com/schalkneethling/mdn-minimalist/compare/v0.7.4...v0.8.0) (2021-03-26)
+
+
+### Features
+
+* color palette v2 ([9eb356c](https://www.github.com/schalkneethling/mdn-minimalist/commit/9eb356c16e094acf7b8d2dad20ff6b08c1f3ff37)), closes [#547](https://www.github.com/schalkneethling/mdn-minimalist/issues/547)
+
+
+### Bug Fixes
+
+* correct font color for ghost button ([ac02303](https://www.github.com/schalkneethling/mdn-minimalist/commit/ac02303451bf4e0036d8fe4521f94c068e63e90f))
+* ghost button interactive states ([dff7778](https://www.github.com/schalkneethling/mdn-minimalist/commit/dff7778baf507180cb2a2283a470fac9b6f137c1)), closes [#536](https://www.github.com/schalkneethling/mdn-minimalist/issues/536)
+
 ### [0.7.4](https://www.github.com/mdn/mdn-minimalist/compare/v0.7.3...v0.7.4) (2021-03-15)
 
 
